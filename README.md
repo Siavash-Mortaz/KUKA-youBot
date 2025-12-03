@@ -117,13 +117,14 @@ KUKA-youBot/
 │   └── my_controller.py      # Main robot controller implementation
 │
 ├── docs/
-│   └── [Cognitive Systems and Robotics-Siavash Mortaz Hejri.pdf](docs/Cognitive%20Systems%20and%20Robotics-Siavash%20Mortaz%20Hejri.pdf)
+│   └── [report.pdf](docs/report.pdf)
 │
 ├── images/
 │   ├── Camera.jpg            # Camera setup visualization
-│   ├── Environment.jpg        # Simulation environment
-│   ├── Logic Chart.jpg        # System workflow diagram
-│   └── Rec.gif               # Demonstration animation
+│   ├── Environment.jpg       # Simulation environment
+│   ├── Logic Chart.jpg       # System workflow diagram
+│   ├── Rec.gif               # Demonstration animation
+│   └── Workflow.jpg          # Workflow diagram
 │
 └── README.md                  # Project documentation
 ```
