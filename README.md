@@ -245,7 +245,7 @@ Watch the robot in action as it autonomously identifies, picks up, and organizes
 - GitHub: [@Siavash-Mortaz](https://github.com/Siavash-Mortaz)
 - Project: [KUKA-youBot](https://github.com/Siavash-Mortaz/KUKA-youBot)
 
-This project was developed as part of the **Cognitive Systems and Robotics** course for the **MSc in Artificial Intelligence** program at **Sheffield Hallam University**.
+This project was developed as part of the **Cognitive Systems and Robotics** course for the **MSc in Artificial Intelligence** program at **Sheffield Hallam University**, where it received an **exceptional** grade.
 
 ## 📄 License
 
