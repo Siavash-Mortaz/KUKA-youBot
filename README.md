@@ -92,7 +92,7 @@ Before running this project, ensure you have the following installed:
    - Open your world file containing the KUKA youBot and the environment with colored boxes and tables
 
 3. **Set the Controller**
-   - In the robot's controller field, set it to `my_controller.py` (or point to `codes/my_controller.py`)
+   - In the robot's controller field, set it to `my_controller.py` (or point to `code/my_controller.py`)
 
 4. **Run the Simulation**
    - Click the play button or press `Ctrl+Shift+P` to start the simulation
@@ -113,7 +113,7 @@ The camera is integrated into the robot's `bodySlot`, positioned strategically b
 ```
 KUKA-youBot/
 │
-├── codes/
+├── code/
 │   └── my_controller.py      # Main robot controller implementation
 │
 ├── docs/
